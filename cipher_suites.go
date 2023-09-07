@@ -17,7 +17,7 @@ import (
 	"hash"
 	"runtime"
 
-	"github.com/bogdanfinn/utls/cpu"
+	"github.com/1395173231/poe-openai-proxy/utls/cpu"
 	"golang.org/x/crypto/chacha20poly1305"
 )
 

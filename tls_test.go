@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bogdanfinn/utls/testenv"
+	"github.com/1395173231/poe-openai-proxy/utls/testenv"
 )
 
 var rsaCertPEM = `-----BEGIN CERTIFICATE-----
